@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Welcome to MuYi Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "MuYi"
+header-img: "img/post-bg.jpg"
+tags:
+    - 生活
+    - test
+---
+
+# this is a test file 
+
+if you see this article
+
+> it means I succeed
